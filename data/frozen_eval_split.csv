@@ -1,0 +1,251 @@
+pubid,question,joined_contexts,long_answer
+26348845,Pap smears with glandular cell abnormalities: Are they detected by rapid prescreening?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Pap smears with glandular cell abnormalities are often flagged as abnormal by RPS, and this results in a sensitivity of 36.4% (at the AGC threshold). Most importantly, some cases of AGC are detected on Pap smears by RPS only, and this demonstrates that RPS is a valuable QA method."
+10973547,Are patients with Werlhof's disease at increased risk for bleeding complications when undergoing cardiac surgery?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",Patients with WD may possibly undergo cardiac surgery without a markedly enhanced risk for bleeding complications despite a more than usual transfusion requirement and significantly lower platelet counts perioperatively.
+26163474,Is there a connection between sublingual varices and hypertension?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","An association was found between sublingual varices and hypertension. Examining the lateral borders of the tongue is easily done, causes no harm and could be a valuable method for the dental profession to take active part in preventive healthcare."
+24374414,Does health information exchange reduce redundant imaging?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",HIE was associated with reduced repeat imaging in EDs. This study is among the first to find empirical support for this anticipated benefit of HIE.
+18507507,The promise of specialty pharmaceuticals: are they worth the price?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Current evidence suggests that when used in targeted patient populations, specialty pharmaceuticals may represent a good health care value."
+23495128,The colour of pain: can patients use colour to describe osteoarthritis pain?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","For some patients, using colour to describe their pain experience may be a useful tool to improve doctor-patient communication."
+17192736,Is fluoroscopy essential for retrieval of lower ureteric stones?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","To uphold the notion for radiation exposure to be as low as reasonably achievable, ureteroscopic stone retrieval can safely be done without the use of fluoroscopy in a significant number of patients."
+12163782,Increased neutrophil migratory activity after major trauma: a factor in the etiology of acute respiratory distress syndrome?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","These data indicate that major blunt trauma enhances the migratory capacity of circulating neutrophils. This is manifest within 2 hrs of admission and may be attributable to alteration in interleukin-8 receptor expression, affinity, or downstream signaling. In patients who later develop ARDS, initially elevated circulating neutrophil counts decrease rapidly, over the same time course. Early enhanced neutrophil migratory activity coupled with elevated pulmonary concentrations of interleukin-8 may be central to the establishment of the neutrophil infiltration that is characteristic of ARDS."
+9582182,Does the SCL 90-R obsessive-compulsive dimension identify cognitive impairments?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",Our data suggest that the SCL 90-R is best viewed as an indicator of unidimensional emotional distress and somatic effects of structural brain injury.
+25588461,Can transcranial direct current stimulation be useful in differentiating unresponsive wakefulness syndrome from minimally conscious state patients?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","a-tDCS could be useful in identifying residual connectivity markers in clinically-defined UWS, who may lack of purposeful behavior as a result of a motor-output failure."
+23453079,Does prostate morphology affect outcomes after holmium laser enucleation?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Those patients with trilobar prostate morphology are more likely to achieve a greater decrease in the PVR urine volume after holmium laser enucleation of the prostate. All other outcomes appeared to be similar between the 2 groups. In addition, a 2-lobe technique can be safely used for trilobar prostates when deemed feasible by the surgeon."
+14518645,Injury and poisoning mortality among young men--are there any common factors amenable to prevention?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Alcohol and drug use are important contributory factors to injury and poisoning deaths. More research is needed into the effects of unemployment and being single on the health of young men, and to investigate the motivations behind risk taking and self-destructive behaviour."
+21084567,Are stroke patients' reports of home blood pressure readings reliable?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","This group of elderly stroke patients were able to record their BPs reliably at home. Any bias was small and would be unlikely to affect management. Since BP readings in a GP surgery are often a poor indication of true BP, GPs might consider using hypertensive patients' records of home BP monitoring to help guide treatment decisions."
+11601252,Is endothelin-1 an aggravating factor in the development of acute pancreatitis?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","These results suggest that endothelin-1 should play a role in aggravating the development of acute hemorrhagic pancreatitis, through its action on the pancreatic microcirculation."
+20577124,Is leptin involved in phagocytic NADPH oxidase overactivity in obesity?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",These findings show that phagocytic NADPH oxidase activity is increased in obesity and is related to preclinical atherosclerosis in this condition. We also suggest that hyperleptinemia may contribute to phagocytic NADPH oxidase overactivity in obesity.
+16647887,Are women who are treated for hypothyroidism at risk for pregnancy complications?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Compared with patients without hypothyroidism, patients with treated hypothyroidism are not at any increased risk for perinatal morbidity."
+24019262,Does high blood pressure reduce the risk of chronic low back pain?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Results for low back pain are consistent with the theory of hypertension-associated hypalgesia, predicting diminished pain sensitivity with increasing blood pressure, possibly with modified reactions in people suffering from long-lasting pain."
+18670651,"Do the changes in the serum levels of IL-2, IL-4, TNFalpha, and IL-6 reflect the inflammatory activity in the patients with post-ERCP pancreatitis?","contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","The enhancement of serum TNFalpha and IL-6 levels in the patients with ERCP-induced pancreatitis reflects the inflammatory activity. Additionally, these cytokines together with IL-4 can be used in clinical laboratory monitoring of ERCP."
+15137012,Ovarian torsion in children: is oophorectomy necessary?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Simple detorsion was not accompanied by an increase in morbidity, and all patients studied had functioning ovarian tissue on follow-up despite the surgeon's assessment of the degree of ovarian ischemia. Detorsion is the procedure of choice for most cases of ovarian torsion in children."
+11380492,Transsphenoidal pituitary surgery in Cushing's disease: can we predict outcome?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Transsphenoidal pituitary surgery is a safe method of treatment in patients with Cushing's disease. Operative findings, radiological and histological findings, together with early postoperative serum cortisol and urine free cortisol estimates may identify failures in treatment. Alternative treatment might then be required for these patients. Because of the risk of late relapse, patients require life-long follow-up."
+17274051,Metastatic carcinoma to the cervical nodes from an unknown head and neck primary site: Is there a need for neck dissection?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","In our experience, definitive radiotherapy to the neck and the potential mucosal sites, whether preceded by neck dissection or not, is effective to achieve a good local control rate in the unknown primary cancer of the head and neck. The indication for neck dissection, in particular for early nodal stage, is controversial."
+12846929,Quality of life in lung cancer patients: does socioeconomic status matter?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","At baseline assessment patients of lower socioeconomic status showed lower health related quality of life. Since there was no clear trend at follow-up assessment this suggests that patients from different socioeconomic status responded to treatment similarly. In general, the findings suggest that quality of life is not only the outcome of the disease and its treatment, but is also highly dependent on each patients' socioeconomic characteristics."
+18948835,Does somatostatin confer insulinostatic effects of neuromedin u in the rat pancreas?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",Neuromedin U reduces insulin and increases somatostatin secretion. Blockade of somatostatin action abolishes the inhibition of insulin secretion by NmU. The results of the study suggest that somatostatin mediates the inhibitory action of NmU on insulin secretion.
+23052500,Staging laparoscopy in patients with hepatocellular carcinoma: is it useful?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","The overall yield of SL for HCC was 7 %, and the accuracy was 27 %. When accurate imaging methods are available and additional percutaneous liver biopsy is implemented as a standard procedure in the preoperative workup of patients with HCC, the benefit of SL will become even less."
+25488308,Can bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","The results of this study suggest that the safest areas for the placement of miniscrews are between the first and second premolars and between the first and second molars, regardless of the angle of insertion."
+24946973,Is oncoplastic surgery a contraindication for accelerated partial breast radiation using the interstitial multicatheter brachytherapy method?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","These preliminary results suggest the feasibility of multicatheter APBI after oncoplastic breast-conserving surgery in selected low-risk breast cancer patients; however, special attention to target volume definition is needed. Further prospective investigations with long follow-up are needed to define the real value of the procedure."
+27456836,Do Electrochemiluminescence Assays Improve Prediction of Time to Type 1 Diabetes in Autoantibody-Positive TrialNet Subjects?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",ECL assays improved the ability to predict time to diabetes in these autoantibody-positive relatives at risk for developing diabetes. These findings might be helpful in the design and eligibility criteria for prevention trials in the future.
+17244100,Can patient coaching reduce racial/ethnic disparities in cancer pain control?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",Patient coaching offers promise as a means of reducing racial/ethnic disparities in pain control. Larger studies are needed to validate these findings and to explore possible mechanisms.
+23347337,Is intensive chemotherapy safe for rural cancer patients?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",It appears safe to administer intensive chemotherapy regimens at standard doses to rural patients without increased morbidity or mortality. Support for general practitioners through phone or videoconferencing may reduce the safety concerns.
+24098953,Are IgM-enriched immunoglobulins an effective adjuvant in septic VLBW infants?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",This hypothesis-generator study shows that IgM-eIVIG is an effective adjuvant therapy in VLBW infants with proven sepsis. Randomized controlled trials are warranted to confirm this pilot observation.
+25274085,Can multiple SNP testing in BRCA2 and BRCA1 female carriers be used to improve risk prediction models in conjunction with clinical assessment?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Random survival forests did not yield higher performance compared to Cox proportional hazards. We found improvement in prediction performance when coupling the genetic SNP score with clinical/demographic markers, which warrants further investigation."
+12913878,Locoregional opening of the rodent blood-brain barrier for paclitaxel using Nd:YAG laser-induced thermo therapy: a new concept of adjuvant glioma therapy?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",LITT induces a locoregional passage of chemotherapeutic agents into the brain tissue. This is of potential interest for the treatment of brain tumors.
+16097998,Is coeliac disease screening in risk groups justified?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",Long-term dietary compliance in screen-detected patients was good. Quality of life and bone mineral density were comparable with those in non-coeliac subjects and the general population. Active screening in coeliac disease risk groups seems to be reasonable rather than harmful.
+10593212,Does loss of consciousness predict neuropsychological decrements after concussion?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",The results of this study cast doubt on the importance of LOC as a predictor of neuropsychological test performance during the acute phase of recovery from mild traumatic brain injury. Neuropsychological testing procedures have been shown to be sensitive in measuring cognitive sequelae of mild traumatic brain injury (concussion) in athletes. The failure of this study to find any relationship between LOC and neuropsychological functioning in a large sample of patients with mild head trauma calls into question the assignment of primary importance to LOC in grading severity of concussion. This study also does not provide support for the use of guidelines that rely heavily on LOC in making return-to-play decisions. Continued research is necessary to determine the relative importance of markers of concussion in athletes.
+22012962,"Marital status, living arrangement and mortality: does the association vary by gender?","contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",Evaluation of living arrangements is crucial for identifying and explaining gender differences in mortality risks by marital status. The impact of living alone and living with a partner seems to be different in men and women.
+8910148,Transesophageal echocardiographic assessment of left ventricular function in brain-dead patients: are marginally acceptable hearts suitable for transplantation?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","TEE is useful to assess left ventricular function in potential brain-dead donors. An FAC less than 50% is present in 36% of potential heart donors. Because left ventricular dysfunction is often reversible shortly after transplantation, an FAC below 50% may not necessarily preclude the use of hearts for transplantation."
+20337874,Delayed diagnosis of anorectal malformations: are current guidelines sufficient?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Delayed diagnosis of an ARM appears to be common, occurring in approximately 32% of patients referred to our institution over the last 2.5 years. Current guidelines appear insufficient to ensure prompt diagnosis of ARM."
+15052394,Are higher rates of depression in women accounted for by differential symptom reporting?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",Men and women in this community sample reported similar patterns of depressive symptoms. No evidence that the presentation of depressive symptoms differs by gender was found.
+18439500,"Laparoscopic myomectomy: do size, number, and location of the myomas form limiting factors for laparoscopic myomectomy?","contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Laparoscopic myomectomy can be performed by experienced surgeons regardless of the size, number, or location of the myomas."
+27491658,Can predilatation in transcatheter aortic valve implantation be omitted?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",TAVI can be performed safely without balloon predilatation and with the same early results as achieved with the standard procedure including balloon predilatation. The reduction in the number of pacing periods required may be beneficial for the patient.
+16962519,Volume change of uterine myomas during pregnancy: do myomas really grow?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Contrary to common belief, we found that uterine myomas commonly decrease in volume over the course of pregnancy."
+9199905,Vertical lines in distal esophageal mucosa (VLEM): a true endoscopic manifestation of esophagitis in children?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",Histology usually demonstrated moderate to severe inflammation when VLEM were present. VLEM may be a highly specific endoscopic feature of esophagitis in children.
+14745753,Is half-dose contrast-enhanced three-dimensional MR angiography sufficient for the abdominal aorta and pelvis?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",Half-dose MR angiography using diluted contrast medium injected at a rate of 1 mL/second depicted the abdominal aorta and its branches as clearly as using a full single dose.
+23506394,"Malnutrition, a new inducer for arterial calcification in hemodialysis patients?","contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",Malnutrition is prevalent in hemodialysis patients and is associated with arterial calcification and the expressions of BMP2 and MGP in calcified radial arteries. Malnutrition may be a new inducer candidate for arterial calcification in hemodialysis patients.
+20064872,Can the prognosis of polymyalgia rheumatica be predicted at disease onset?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",A higher PV in PMR increases the risk of prolonged steroid therapy and late GCA. Female sex and particular HLA alleles may increase the risk of late GCA. Starting patients on>15 mg prednisolone is associated with a prolonged steroid duration.
+22683044,Does open access publishing increase the impact of scientific articles?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Open access publishing and the Hirsch index of the first signing author increase the impact of scientific articles. The open access advantage is greater for the more highly cited articles, and appears in the 30-35 months after publication."
+23870157,Are intraoperative precursor events associated with postoperative major adverse events?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",Patients undergoing cardiac surgery who are exposed to intraoperative precursor events were more likely to experience a postoperative MACE. Quality improvement techniques aimed at mitigating the consequences of precursor events might improve the surgical outcomes for cardiac surgical patients.
+20401819,Is ultrasound equal to X-ray in pediatric fracture diagnosis?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Ultrasound not only has comparable sensitivity to that of X-ray for the identification of limb fractures but is also equally effective for the diagnosis of fracture type and dislocation. Thus, ultrasound can be used as an adequate alternative method to X-ray for pediatric fracture diagnosis."
+22117569,Is an advance care planning model feasible in community palliative care?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred",An advance care planning model is feasible for community palliative care services. Quality audit processes are an essential component of the Model with documentation of advance care planning discussion established as an important outcome measure.
+10811329,Are 99mTc leukocyte scintigraphy and SBFT studies useful in children suspected of having inflammatory bowel disease?,"contexts
+labels
+meshes
+reasoning_required_pred
+reasoning_free_pred","Our results suggest that 99mTc-WBC is useful as an initial screening modality to exclude IBD, and is more sensitive than UGI-SBFT studies."
