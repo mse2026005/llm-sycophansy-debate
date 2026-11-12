@@ -21,10 +21,9 @@ This repository contains the code, data, and evaluation scripts to reproduce our
 │   ├── final_experiment_results.csv    # Merged outputs including Heterogeneous Debate
 │   └── revised_experiment_results.csv  # Final verbosity-controlled evaluation & ablation
 ├── scripts/
-│   ├── 01_generate_baselines.py        # Pipeline 1: Zero-Shot & RAG generation
-│   ├── 02_generate_debate.py           # Pipeline 2: Heterogeneous 2-Agent Debate
-│   ├── 03_run_ablation.py              # Pipeline 3: Homogeneous Debate (Ablation)
-│   └── 04_evaluate_metrics.py          # LLM-as-a-judge scoring & Wilcoxon stat testing
+│   ├── 01_ATR_Prompt6.ipynb              # Pipeline 1: Zero-Shot & RAG generation
+│   ├── 02_ATR_Prompt8_11.ipynb           # Pipeline 2: Heterogeneous 2-Agent Debate
+│   ├── 03_ATR_Prompt12-18.ipynb          # Pipeline 3: Homogeneous Debate (Ablation) and LLM-as-a-judge scoring & Wilcoxon stat testing                         
 ├── figures/
 │   └── performance_comparison.png      # Plausibility vs. Token Cost (Log Scale) chart
 ├── manuscript/
